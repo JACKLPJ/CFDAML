@@ -1,13 +1,16 @@
 # CFDAML
-CF-DAML: Distributed automated machine learning based on collaborative filtering
+CF-DAML: Distributed automated machine learning based on collaborative filtering 
+
 This is an AutoML software based on collaborative filtering.
+
 1.安装依赖包
-python 3.8
-xgboost 1.4.2
-scikit-learn 0.23.2
-scipy 1.6.2
-pandas 1.2.4
-numpy 1.20.1
+
+python 3.8  
+xgboost 1.4.2  
+scikit-learn 0.23.2  
+scipy 1.6.2  
+pandas 1.2.4  
+numpy 1.20.1  
 
 2.下载安装说明
 将整个CF-DAML下载到本机工作盘中（不支持硬盘，U盘）即可。
